@@ -1,0 +1,6 @@
+.outerCard{
+    border: 2px solid rgb(1 118 211); /* Green border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px; /* Padding around the lightning-card */
+    margin: 10px;
+}
